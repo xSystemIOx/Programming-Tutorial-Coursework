@@ -5,3 +5,11 @@ I had a problem were I cannot convert a transform to a variable I created. It tu
 # 23/10/2-18
 
 I had a problem again with converting `GameObject` to `Rigidbody`, I got confused of when to convert and from which way to convert to. In the end I figured it out. My second problem was the object spawn really fast, I fixed it by making the script wait half a second befor spawning again. My third problem was that is spawn the object forward, my intention was to make the object launch upward. I fixed i by adding velocity on the correct axis. 
+
+# 5/11/2-18
+
+I have not encountered any problem during the creating of this behaviour.
+
+# 15/11/2-18
+
+I explored other ways I can save high score, but ultimately I think that using player prefs fits this situation the best.
