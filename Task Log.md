@@ -6,4 +6,4 @@ Date | Start | End | Interruptions | Time (H) | Task
 23/10/18 | 11:00 | 11:30 | - | 0.3 | Spawn Object with lunge
 5/11/18 | 19:00 | 19:30 | - | 0.3 | To down control and aim with mouse
 15/11/18 | 20:00 | 21:00 | - | 1 | Score system
-
+1/12/18 | 12:00 | 13:00 | - | 3 | Behaviour project
