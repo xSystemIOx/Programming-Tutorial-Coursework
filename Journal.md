@@ -13,3 +13,7 @@ I have not encountered any problem during the creating of this behaviour.
 # 15/11/2-18
 
 I explored other ways I can save high score, but ultimately I think that using player prefs fits this situation the best.
+
+# 1/12/2-18
+
+Putting the 4 behaviours together was pretty easy, since I decided the 4 components and final project half way making the second tutorial. I just needed to adjust the variables to make the game fun, I only changed a little of the script to it's reasonable to the game, for example I made the enemy spawn in a random place instead of in the same place. 
